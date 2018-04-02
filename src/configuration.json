@@ -1,0 +1,12 @@
+{
+  "restServerUrl": "https://andycandifood.appspot.com",
+  "restUrl": "http://localhost:8080",
+  "latitude":"",
+  "longitude":"",
+  "alertDelayInSeconds": 5000,
+  "ga": {
+    "key": "tempPwd",
+    "iv": "XXXX",
+    "trackingId": "UA-115890187-1"
+  }
+}
